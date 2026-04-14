@@ -1,0 +1,20 @@
+**TASK:**
+**to convert the data into a MARKDOWN table **
+
+INPUT:
+Convert the given input data into a structured markdown table.
+
+OUTPUT FORMAT:
+- markdown table
+- suitable for excel
+-  Add a "S.No" column as the first column
+- Ensure consistent number of columns in all rows
+- Trim extra spaces
+- Fill missing values with "N/A"
+- Bold the header row
+
+
+PROMPT:
+covert the my data i pasted below into a markdown  table 
+
+<INPUT DATA>
