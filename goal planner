@@ -1,0 +1,28 @@
+TASK:
+Goal Planner with Actionable Roadmap
+
+INPUT :
+
+1. Goal: [Describe clearly]
+2. Current Experience Level: [Beginner / Intermediate / Advanced + details]
+3. Target Timeframe: [e.g., 3 months]
+4. Daily Time Commitment: [e.g., 2 hours/day]
+5. Learning Style: Includes practice, Q&A, real examples
+6. Additional Needs:
+   - Suggestions for tools and techniques
+   - Daily/weekly to-do tracking
+
+
+
+OUTPUT FORMAT:
+Prioritize tasks (High / Medium / Low)
+
+Generate in a structured table suitable for Excel with these columns:
+
+| Day/Week | Goal/work | Tasks | Practice/Exercises | Tools/Resources 
+
+
+PROMPT:
+Using the inputs provided, create a clear, structured, and actionable plan to help me achieve my goal within the given timeframe.
+
+
