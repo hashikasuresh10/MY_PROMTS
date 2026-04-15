@@ -1,0 +1,26 @@
+
+TASK:
+youtube video suggestion 
+
+INPUT :
+
+Topic:
+-Depth level (Beginner / Intermediate / Advanced):
+-Specific areas to cover within the topic:
+-Preferred language:
+-Preference: Recently published, high-engagement videos (more views/likes)
+
+
+OUTPUT FORMAT:
+For each video, provide:
+
+-Video Title
+-Channel Name
+-Why this video is useful (1–2 lines)
+-Key topics covered
+-Video LinkRelated newsletters, blogs
+
+PROMPT:
+Based on my inputs, suggest high-quality, relevant YouTube videos that best match my requirements.
+
+
